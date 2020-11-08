@@ -5,4 +5,5 @@ This project was part of a mentorship through Chic Geek's mentorship program in 
 Please check out the wiki to see the journal of my progress.
 
 A video of my final presentation video can be accessed here: https://drive.google.com/file/d/15w_LajNGixeISVyDJlGDjmkcOQ9eTYlt/view?usp=sharing
+
 And that concludes my Chic Geek mentorship program experience
